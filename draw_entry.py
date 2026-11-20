@@ -6,8 +6,8 @@ Stories (all reported on 19 Nov 2026, cross-checked across several outlets):
      three great powers, ends with a four-point 'Declaration toward Peace'.
   2. ICJ rules Myanmar committed genocide against the Rohingya in 2017 -
      the first state ever found guilty of genocide by an international court.
-  3. Anthropic's Nasdaq debut: ~$2 trillion valuation, biggest listing ever,
-     shares open 34% above the IPO price.
+  3. Anthropic's Nasdaq debut: $81.3bn IPO, biggest listing ever,
+     shares open 34% above the IPO price, valuation near $1.5 trillion.
   4. Tanker attacks mount in the Gulf as US-Iran strikes escalate; the IEA
      calls the crisis the greatest threat ever to energy security.
   5. Crimea bridge hit for a second night; EU proposes a 45bn euro loan
@@ -193,8 +193,8 @@ def main():
         ("WORLD COURT:", "MYANMAR GUILTY",
          "Rohingya genocide, 2017 — first state ever convicted",
          TEAL, scales),
-        ("ANTHROPIC'S", "$2 TRILLION DEBUT",
-         "Biggest Nasdaq listing ever — shares +34% on debut",
+        ("ANTHROPIC'S", "RECORD DEBUT",
+         "Biggest Nasdaq listing ever — $81.3bn IPO, shares +34% at the open",
          STEEL, chart),
         ("TANKERS HIT AS", "GULF CRISIS GROWS",
          "IEA: the greatest threat ever to energy security",
